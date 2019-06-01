@@ -121,7 +121,7 @@ itchat.send(today_msg, toUserName=name_uuid)
 
 ### 安装依赖
 
-需pythop3.6以上版
+需pythop3.6以上版本
 
 使用 pip install -r requirements.txt 安装所有依赖
 
